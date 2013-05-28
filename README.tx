@@ -1,0 +1,7 @@
+Maya-Scripts
+============
+
+Python and Mel scripts for Maya
+
+The repo contains personal Python and Mel scripts for use in Maya. To run the scripts an install of the PythonAppend tool
+is required so that maya can be pointed to the GitHub folder
